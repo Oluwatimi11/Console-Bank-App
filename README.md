@@ -1,17 +1,17 @@
 # Console-Bank-App
 Basic Bank Transaction App.
 
-###Intro: :pencil2: 
+### Intro: :pencil2: 
 
 This task is aimed at evaluating your understanding and implementation of OOP rules and SOLID principles with Design Architecture.
 
-##Challenge :hammer: 
+## Challenge :hammer: 
 
 Your task is to create a console application that model’s a Bank and its operations using OOP concepts and SOLID principles with a Design Pattern of your choice.
 
 The result should be displayed in a tabular form as shown below:
 
-###ACCOUNT DETAILS :page_facing_up: 
+### ACCOUNT DETAILS :page_facing_up: 
 
 |-------------------|-------------------------------|--------------------------|---------------------|
 
@@ -24,7 +24,7 @@ The result should be displayed in a tabular form as shown below:
 | John Doe | 0987654311 | Current | 100,000 | |----------------------------------------------------------------------------------------------------|
 
 
-##ACCOUNT STATEMENT ON ACCOUNT NO 0987654321 
+## ACCOUNT STATEMENT ON ACCOUNT NO 0987654321 
 :page_facing_up: 
 
 |-------------------|-------------------------------|--------------------------|---------------------|
@@ -38,7 +38,7 @@ The result should be displayed in a tabular form as shown below:
 | 10/07/2021 | Atm Trft from Agege | 20000 | 100,000 | |----------------------------------------------------------------------------------------------------|
 
 
-###Task requirements
+### Task requirements
 
 :pushpin: No database is required for this project. Use any of the data structures you feel appropriate
 
@@ -46,7 +46,7 @@ The result should be displayed in a tabular form as shown below:
 
 
 
-###Functional requirements :wrench: 
+### Functional requirements :wrench: 
 
 - A customer should be able to login.
 
@@ -65,7 +65,7 @@ The result should be displayed in a tabular form as shown below:
 - A customer should be able to logout.
 
 
-###Required Validations
+### Required Validations
 
 - Account owners can not withdraw past the minimum balance for a savings account (1000 Naira).
 
